@@ -1,0 +1,27 @@
+{
+  "name": "sketchjs",
+  "version": "0.0.1",
+  "description": "Small wrapper around sketchtool and sketchmigrate from BohemianCoding",
+  "main": "lib/sketch.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iDuuck/sketchtool.git"
+  },
+  "keywords": [
+    "sketch",
+    "bohemiancoding",
+    "parse",
+    "export",
+    "migrate",
+    "sketchtool"
+  ],
+  "author": "Dominik Schmidt <nick@kreativgebiet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iDuuck/sketchtool/issues"
+  },
+  "homepage": "https://github.com/iDuuck/sketchtool"
+}
