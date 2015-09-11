@@ -1,4 +1,7 @@
 # sketchjs
+
+[![Build Status](https://travis-ci.org/iDuuck/sketchjs.svg?branch=master)](https://travis-ci.org/iDuuck/sketchjs) [![Dependency Status](https://david-dm.org/iduuck/sketchjs.svg)](https://david-dm.org/iduuck/sketchjs) [![Downloads](https://img.shields.io/npm/dm/sketchjs.svg)](https://npmjs.org/package/sketchjs)
+
 Small wrapper around sketchtool and sketchmigrate from BohemianCoding
 
 ## Installation
