@@ -4,5 +4,7 @@ node_js:
   - "0.12"
   - "0.10"
   - "0.8"
+before_script:
+  - npm update -g npm
 notifications:
   slack: kreativgebiet:MsbOIveN5JdLobZVHat2wdOC
