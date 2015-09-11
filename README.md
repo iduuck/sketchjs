@@ -53,6 +53,9 @@ sketch.export(
 Migrate an old sketch file into a new one
 
 ```js
+sketch.migrate('path/to/old.sketch', 'path/to/new.sketch', function() {
+  // Your custom callback
+});
 ```
 
 ## Contributing
