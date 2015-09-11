@@ -1,6 +1,6 @@
 {
   "name": "sketchjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Small wrapper around sketchtool and sketchmigrate from BohemianCoding",
   "main": "lib/sketch.js",
   "scripts": {
@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/iDuuck/sketchtool/issues"
   },
-  "homepage": "https://github.com/iDuuck/sketchtool"
+  "homepage": "https://github.com/iDuuck/sketchtool",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2",
+    "rimraf": "^2.4.3"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
