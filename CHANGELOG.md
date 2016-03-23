@@ -1,3 +1,7 @@
+# Version 0.1.3
+
+- Update `lodash` dependency
+
 # Version 0.1.2
 
 - Remove binary files
