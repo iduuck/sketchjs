@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iDuuck/sketchtool.git"
+    "url": "git://github.com/iDuuck/sketchjs.git"
   },
   "keywords": [
     "sketch",
@@ -16,14 +16,16 @@
     "parse",
     "export",
     "migrate",
-    "sketchtool"
+    "sketchjs",
+    "sketchtool",
+    "sketchmigrate"
   ],
   "author": "Dominik Schmidt <nick@kreativgebiet.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iDuuck/sketchtool/issues"
+    "url": "https://github.com/iDuuck/sketchjs/issues"
   },
-  "homepage": "https://github.com/iDuuck/sketchtool",
+  "homepage": "https://github.com/iDuuck/sketchjs",
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.3.2",
