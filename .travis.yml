@@ -1,6 +1,12 @@
 os:
   - osx
-install: npm install
-script: npm test
+
+install:
+  - ./install.sh
+  - npm install
+
+script:
+  - mocha
+
 notifications:
   slack: kreativgebiet:MsbOIveN5JdLobZVHat2wdOC
