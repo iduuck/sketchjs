@@ -1,6 +1,9 @@
 os:
   - osx
 
+before_install:
+  - chmod +x ./install.sh
+
 install:
   - ./install.sh
   - npm install
