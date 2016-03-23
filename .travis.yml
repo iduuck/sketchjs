@@ -9,7 +9,7 @@ install:
   - npm install
 
 script:
-  - mocha
+  - npm test
 
 notifications:
   slack: kreativgebiet:MsbOIveN5JdLobZVHat2wdOC
