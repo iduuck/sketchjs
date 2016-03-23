@@ -1,5 +1,5 @@
 {
-  "name": "sketchjs_with_sketchtool3.4",
+  "name": "sketchjs",
   "version": "0.1.1",
   "description": "Updated sketchjs version by iDuuck",
   "main": "lib/sketch.js",
