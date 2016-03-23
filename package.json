@@ -1,7 +1,7 @@
 {
   "name": "sketchjs",
   "version": "0.1.2",
-  "description": "Updated sketchjs version by iDuuck",
+  "description": "Small wrapper around sketchtool and sketchmigrate from BohemianCoding",
   "main": "lib/sketch.js",
   "scripts": {
     "test": "mocha"
