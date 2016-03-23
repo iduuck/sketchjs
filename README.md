@@ -10,10 +10,10 @@ Small wrapper around sketchtool and sketchmigrate from BohemianCoding
 
 Since we don't want to ship sketchjs with the binaries of `sketchtool` and `sketchmigrate` anymore you need to install the binaries before.
 
-The following bash command is the way to go (normally). If you installed Sketch from a different route, please just refer the `install.sh` to the right directory.
+The following bash command is the way to go.
 
 ```bash
-sh /Applications/Sketch.app/Contents/Resources/sketchtool/install.sh
+./install.sh
 ```
 
 After installing the necessary binaries from your Sketch application, you can simply run the installation command using `npm`.
